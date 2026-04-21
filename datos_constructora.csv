@@ -1,0 +1,421 @@
+ID_Presupuesto,Fecha,Tipologia,Linea,Revestimiento,Sistema_Construccion,Superficie_m2,Distancia_km,Costo_Final
+52,2025-03-26,minimalista,Econmica,Plástico,Steel Frame,nan,21.0,117230.66
+275,22/12/2025,Americana,Econmica,Plástico,Wood Frame,96.0,100.0,150344.65
+131,2025-08-11,PREMIUM,Econmica,Plástico,Wood Frame,nan,97.0,
+35,2025-09-13,Minimalista,Stndar,Madera,Wood Frame,44.0,196.0,121578.24
+325,2025-02-17,minimalista,Stndar,Plástico,Steel Frame,107.0,25.0,91223.08
+353,2025-06-25,americana,Econmica,Ladrillo,Steel Frame,nan,32.0,53756.08
+152,2025-09-26,CABAÑA,Preium,Piedra,Wood Frame,57.0,130.0,69350.75
+361,2025-04-11,Premium,Preium,Piedra,Tradicional,82.0,49.0,146510.59
+295,22/12/2025,Minimalista,Stndar,Plástico,Wood Frame,124.0,152.0,
+102,2025-01-24,MINIMALISTA,Preium,Ladrillo,Tradicional,135.0,96.0,37279.07
+263,2025-05-26,AMERICANA,Stndar,Plástico,Tradicional,93.0,177.0,
+78,2025-06-17,Premium,Stndar,Plástico,Steel Frame,141.0,62.0,91086.7
+200,2025-06-18,CABAÑA,Econmica,Ladrillo,Steel Frame,59.0,162.0,116359.67
+166,2025-05-13,Americana,Econmica,Ladrillo,Tradicional,121.0,25.0,115246.44
+56,2025-07-17,Premium,Econmica,Ladrillo,Steel Frame,74.0,142.0,85863.5
+278,2025-01-12,minimalista,Econmica,Piedra,Tradicional,59.0,63.0,130601.23
+23,2025-04-22,MINIMALISTA,Preium,Plástico,Tradicional,119.0,81.0,52456.41
+311,2025-06-23,Premium,Econmica,Plástico,Wood Frame,140.0,70.0,72909.39
+33,2025-05-22,Premium,Stndar,Madera,Steel Frame,87.0,102.0,143517.78
+255,22/12/2025,Americana,Stndar,Ladrillo,Steel Frame,144.0,16.0,61063.81
+362,2025-08-18,americana,Econmica,Ladrillo,Wood Frame,nan mt2,155.0,154416.84
+285,22/12/2025,Minimalista,Econmica,Piedra,Steel Frame,127.0,195.0,38226.49
+330,2025-04-13,Premium,Preium,Ladrillo,Tradicional,45.0,104.0,126701.8
+61,2025-03-27,CABAÑA,Econmica,Plástico,Tradicional,73.0,54.0,144814.45
+179,2025-03-17,Americana,Econmica,Ladrillo,Wood Frame,65.0,140.0,121554.52
+89,2025-06-16,Premium,Stndar,Plástico,Steel Frame,74.0,161.0,99885.22
+250,2025-04-23,CABAÑA,,Madera,Tradicional,71.0,192.0,99459.93
+227,2025-08-15,Americana,Stndar,Madera,Steel Frame,142.0,164.0,159060.44
+231,2025-08-23,Minimalista,,Plástico,Tradicional,142.0,76.0,100119.75
+305,2025-07-24,minimalista,Stndar,Piedra,Tradicional,nan,183.0,42222.57
+20,2025-06-24,cabaña,Econmica,,Tradicional,121.0,86.0,99449.5
+109,2025-01-27,Minimalista,Econmica,Ladrillo,Steel Frame,46.0,151.0,42533.42
+236,2025-07-19,PREMIUM,,Ladrillo,Wood Frame,137.0,66.0,138258.45
+349,2025-04-25,premium,Stndar,Madera,Steel Frame,132.0,74.0,91797.17
+350,2025-02-15,Cabaña,Stndar,Plástico,Tradicional,122.0,149.0,140544.64
+257,2025-03-10,Cabaña,Stndar,Plástico,Tradicional,107.0,29.0,49545.8
+178,2025-01-24,Cabaña,Econmica,Ladrillo,Tradicional,48.0,173.0,124699.72
+358,2025-01-12,Premium,Stndar,Madera,Steel Frame,104.0,172.0,84309.53
+351,22/12/2025,Premium,Econmica,Madera,Steel Frame,113.0,127.0,47260.32
+294,2025-09-18,Minimalista,Econmica,Madera,Wood Frame,91.0,28.0,48208.09
+115,2025-02-21,Cabaña,Preium,Piedra,Wood Frame,95.0,170.0,
+344,2025-09-21,MINIMALISTA,Econmica,Piedra,Tradicional,74.0,129.0,135192.14
+268,2025-07-24,premium,Econmica,Madera,Wood Frame,104.0,36.0,121868.89
+58,2025-07-16,Americana,,Ladrillo,Steel Frame,70.0,197.0,132798.19
+236,2025-07-19,PREMIUM,,Ladrillo,Wood Frame,137.0,66.0,138258.45
+185,2025-04-16,Americana,Preium,Piedra,Wood Frame,132.0,80.0,69270.08
+86,22/12/2025,Cabaña,Stndar,Plástico,Tradicional,100.0,19.0,92936.76
+80,2025-03-10,Premium,Preium,Piedra,Steel Frame,96.0,178.0,
+238,2025-01-24,Minimalista,Stndar,Madera,Tradicional,39.0,131.0,123593.09
+15,2025-03-17,Premium,Stndar,Piedra,Wood Frame,51.0,111.0,35617.5
+204,2025-02-15,americana,Preium,Piedra,Tradicional,50.0,158.0,118685.87
+211,2025-02-15,Cabaña,Stndar,Madera,Wood Frame,76.0,178.0,105287.1
+307,2025-08-16,Premium,Preium,Ladrillo,Wood Frame,133.0,109.0,157959.87
+31,22/12/2025,Americana,Stndar,Madera,Steel Frame,46.0,21.0,119075.26
+186,2025-07-13,Americana,Preium,Piedra,Steel Frame,37.0,125.0,
+335,2025-08-18,Minimalista,Preium,Plástico,Tradicional,63.0,82.0,37399.03
+318,2025-08-11,americana,Econmica,Ladrillo,Steel Frame,nan,119.0,111902.43
+110,2025-04-24,Cabaña,Econmica,Ladrillo,Steel Frame,53.0,189.0,151804.5
+235,22/12/2025,Premium,,Ladrillo,Tradicional,59.0,88.0,50964.19
+51,22/12/2025,Cabaña,Econmica,Madera,Wood Frame,149.0,15000.0,48324.13
+1,2025-04-21,CABAÑA,Preium,Plástico,Tradicional,nan,104.0,68718.7
+216,2025-09-28,Americana,Stndar,Madera,Tradicional,52.0,176.0,101978.46
+347,2025-08-22,Cabaña,Stndar,,Wood Frame,45.0,88.0,48717.02
+39,2025-08-20,Americana,Preium,Madera,Tradicional,119.0,74.0,97146.85
+262,2025-09-17,minimalista,,,Steel Frame,46.0,104.0,135740.68
+282,2025-08-27,premium,Econmica,Piedra,Steel Frame,93.0,193.0,53296.75
+134,2025-03-25,americana,Preium,Plástico,Steel Frame,104.0,83.0,95443.21
+123,2025-09-21,Minimalista,Stndar,Plástico,Tradicional,96.0,16.0,86693.64
+302,2025-08-16,Americana,Preium,Madera,Steel Frame,88.0,156.0,92475.05
+370,2025-07-27,Cabaña,,Plástico,Wood Frame,130.0,84.0,147720.25
+389,2025-05-27,AMERICANA,Stndar,Ladrillo,Steel Frame,126.0,179.0,154562.67
+228,2025-01-23,Minimalista,,Ladrillo,Steel Frame,91.0,45.0,150875.12
+41,2025-08-23,cabaña,Stndar,Madera,Steel Frame,96.0 mt2,78.0,143613.12
+340,2025-02-20,Premium,Econmica,Plástico,Wood Frame,110.0,170.0,61900.23
+57,2025-07-11,Premium,Stndar,Piedra,Steel Frame,45.0,122.0,143844.18
+161,2025-08-14,Cabaña,Econmica,Piedra,Tradicional,149.0,92.0,127109.22
+219,2025-02-12,PREMIUM,Stndar,Piedra,Tradicional,133.0,65.0,129520.42
+117,22/12/2025,americana,Stndar,Plástico,Steel Frame,108.0,166.0,135378.24
+167,2025-06-27,PREMIUM,Econmica,Plástico,Tradicional,127.0,22.0,110886.75
+157,2025-09-21,cabaña,Preium,Ladrillo,Tradicional,48.0,192.0,112982.42
+104,2025-01-26,PREMIUM,Econmica,Plástico,Wood Frame,78.0,51.0,35945.36
+156,2025-02-13,minimalista,Stndar,Ladrillo,Steel Frame,41.0,180.0,46941.91
+91,2025-06-13,premium,Stndar,Plástico,Tradicional,35.0,120.0,38205.26
+10,2025-02-14,Minimalista,Econmica,Madera,Tradicional,76.0,35.0,98404.35
+224,2025-08-24,Premium,Stndar,Piedra,Steel Frame,147.0,10.0,64330.26
+234,2025-04-10,PREMIUM,Econmica,Madera,Wood Frame,64.0,66.0,129408.8
+176,2025-04-21,minimalista,Econmica,Piedra,Wood Frame,137.0,37.0,85539.85
+84,2025-02-21,PREMIUM,Stndar,Ladrillo,Wood Frame,107.0,145.0,
+192,2025-07-16,cabaña,Econmica,Ladrillo,Tradicional,121.0,96.0,79374.54
+169,2025-04-15,cabaña,Stndar,Madera,Tradicional,129.0,86.0,63993.39
+140,2025-03-21,americana,Econmica,Madera,Tradicional,49.0,196.0,110201.48
+326,2025-02-18,minimalista,Preium,Piedra,Wood Frame,102.0,147.0,59327.81
+155,2025-03-21,AMERICANA,Preium,Piedra,Tradicional,120.0,170.0,118443.74
+49,2025-02-14,MINIMALISTA,Preium,Piedra,Tradicional,87.0,100.0,84233.05
+292,2025-03-12,Cabaña,Econmica,,Tradicional,141.0,190.0,
+308,2025-05-20,Minimalista,Stndar,Piedra,Wood Frame,nan,168.0,64897.51
+365,2025-02-25,CABAÑA,Preium,Plástico,Tradicional,111.0,143.0,121016.84
+184,2025-04-24,Cabaña,Econmica,Piedra,Wood Frame,79.0,149.0,107298.36
+372,2025-05-11,premium,Stndar,Madera,Steel Frame,127.0,14.0,114650.18
+67,2025-03-27,Premium,Econmica,Plástico,Steel Frame,145.0,184.0,134726.71
+105,2025-03-16,Minimalista,Econmica,Plástico,Steel Frame,85.0,105.0,115934.34
+260,2025-01-11,CABAÑA,Preium,Piedra,Wood Frame,122.0,151.0,144746.79
+395,2025-06-14,CABAÑA,Stndar,Piedra,Wood Frame,nan,160.0,117671.33
+40,2025-09-22,Cabaña,Preium,Plástico,Tradicional,126.0,162.0,112230.91
+332,2025-08-22,Americana,Preium,Madera,Steel Frame,nan,46.0,36378.91
+149,2025-02-15,Americana,Stndar,Madera,Wood Frame,50.0,19.0,79177.67
+371,2025-09-14,PREMIUM,Stndar,Piedra,Wood Frame,96.0,97.0,92684.68
+339,2025-01-12,Premium,,Plástico,Steel Frame,nan,73.0,101913.77
+261,2025-02-12,Americana,Stndar,Plástico,Steel Frame,102.0,59.0,143507.09
+24,22/12/2025,Premium,Preium,Piedra,Steel Frame,61.0,16.0,38746.7
+114,2025-06-23,MINIMALISTA,Preium,Ladrillo,Tradicional,83.0,128.0,67097.07
+2,2025-03-21,Premium,Econmica,,Tradicional,143.0,195.0,42135.86
+133,2025-06-22,Americana,Stndar,Piedra,Tradicional,114.0,12.0,155365.86
+154,2025-03-20,Cabaña,Preium,Piedra,Tradicional,119.0,13.0,87967.28
+53,2025-06-24,CABAÑA,Stndar,Plástico,Wood Frame,63.0,16.0,159926.72
+367,2025-09-18,Minimalista,Econmica,Ladrillo,Tradicional,148.0,199.0,66833.83
+90,2025-07-18,Minimalista,Stndar,Piedra,Tradicional,51.0,79.0,94897.73
+385,2025-01-27,americana,Preium,Piedra,Wood Frame,122.0,32.0,124540.42
+142,2025-01-24,AMERICANA,Stndar,Plástico,Steel Frame,60.0,185.0,145525.81
+92,2025-04-24,premium,Econmica,Piedra,Wood Frame,nan,36.0,77655.98
+162,2025-04-25,americana,Stndar,Madera,Steel Frame,82.0,76.0,142849.63
+97,2025-08-14,MINIMALISTA,Preium,,Wood Frame,59.0,31.0,110988.14
+81,2025-05-10,Cabaña,Stndar,Madera,Tradicional,143.0,33.0,63408.7
+217,2025-03-10,Premium,Stndar,Madera,Wood Frame,66.0,53.0,47084.56
+290,2025-06-14,PREMIUM,Stndar,Plástico,Wood Frame,144.0,98.0,89062.23
+168,2025-04-12,CABAÑA,Stndar,Plástico,Wood Frame,nan,68.0,103337.18
+181,2025-08-11,Americana,Preium,Piedra,Tradicional,133.0,183.0,51049.29
+81,2025-05-10,Cabaña,Stndar,Madera,Tradicional,143.0,33.0,63408.7
+223,2025-09-10,Minimalista,Preium,Plástico,Steel Frame,96.0,13.0,150897.23
+338,22/12/2025,cabaña,Stndar,Ladrillo,Tradicional,59.0,41.0,52138.71
+207,2025-06-11,Premium,Stndar,Plástico,Wood Frame,142.0,198.0,104722.93
+253,2025-09-21,Premium,Stndar,Piedra,Steel Frame,99.0,16.0,159019.75
+129,2025-01-16,Premium,Stndar,Piedra,Steel Frame,55.0,178.0,123630.78
+88,2025-07-25,Americana,Preium,Madera,Steel Frame,107.0,33.0,142916.71
+107,2025-04-25,minimalista,Preium,Piedra,Tradicional,136.0,88.0,65435.29
+46,2025-07-17,Premium,Econmica,Madera,Wood Frame,141.0,41.0,119564.17
+196,2025-02-14,Minimalista,Econmica,Plástico,Wood Frame,147.0,164.0,135044.56
+321,2025-05-17,Premium,Econmica,Piedra,Tradicional,136.0,16.0,100880.18
+245,2025-06-24,Cabaña,Econmica,Ladrillo,Tradicional,64.0,158.0,104225.28
+345,2025-07-20,Cabaña,Stndar,Madera,Wood Frame,59.0 mt2,115.0,154947.08
+350,2025-02-15,Cabaña,Stndar,Plástico,Tradicional,122.0,149.0,140544.64
+138,2025-06-12,AMERICANA,Econmica,Plástico,Steel Frame,123.0,135.0,114143.92
+276,2025-07-22,Premium,Preium,Ladrillo,Tradicional,111.0,60.0,
+66,2025-02-12,MINIMALISTA,Preium,Madera,Tradicional,89.0,168.0,130285.64
+170,2025-04-18,Minimalista,Econmica,Ladrillo,Tradicional,128.0,114.0,83863.25
+153,2025-09-11,Americana,Econmica,Piedra,Steel Frame,60.0,88.0,137826.79
+300,2025-06-10,PREMIUM,Econmica,Ladrillo,Tradicional,39.0,24.0,42668.7
+277,2025-09-24,Americana,Stndar,Plástico,Tradicional,132.0,109.0,110781.62
+379,2025-01-21,Minimalista,Stndar,Plástico,Wood Frame,74.0,12.0,53771.13
+177,2025-06-16,cabaña,Econmica,Piedra,Tradicional,51.0,106.0,88524.95
+160,2025-02-10,Premium,Stndar,Plástico,Steel Frame,43.0,134.0,56001.78
+135,2025-06-12,Cabaña,,Piedra,Wood Frame,106.0,31.0,135749.07
+95,2025-06-24,Minimalista,Preium,Plástico,Steel Frame,138.0,88.0,107521.55
+210,2025-06-12,Americana,Stndar,Piedra,Wood Frame,133.0,94.0,42517.79
+137,2025-06-28,AMERICANA,Econmica,Ladrillo,Steel Frame,116.0,54.0,40426.57
+42,2025-08-21,cabaña,Econmica,Piedra,Tradicional,80.0,67.0,106326.22
+77,2025-05-27,Premium,Preium,Ladrillo,Tradicional,133.0,183.0,83569.76
+189,2025-01-12,Cabaña,Econmica,Piedra,Tradicional,74.0,84.0,58983.42
+393,2025-07-14,Premium,Econmica,Ladrillo,Tradicional,82.0,48.0,78712.9
+68,2025-09-15,Americana,Preium,Plástico,Steel Frame,58.0,129.0,89447.91
+183,2025-03-23,minimalista,Stndar,,Steel Frame,94.0,45.0,125542.35
+75,2025-07-14,Americana,Econmica,Madera,Wood Frame,54.0,83.0,84521.59
+126,2025-09-14,PREMIUM,Econmica,Plástico,Wood Frame,117.0,31.0,120139.73
+309,22/12/2025,Premium,Preium,Madera,Tradicional,147.0,121.0,52781.17
+172,2025-05-22,Americana,Stndar,Ladrillo,Tradicional,133.0,170.0,97095.86
+19,2025-08-26,premium,Econmica,Piedra,Wood Frame,110.0,163.0,91842.48
+82,2025-07-21,Premium,Stndar,Piedra,Steel Frame,141.0,8.0,44149.49
+386,22/12/2025,Premium,Econmica,Plástico,Tradicional,53.0,125.0,44010.54
+132,2025-06-17,Americana,Stndar,Plástico,Tradicional,135.0,57.0,67070.35
+32,2025-09-28,americana,Stndar,Piedra,Tradicional,143.0,108.0,90468.78
+9,2025-07-27,CABAÑA,Econmica,Plástico,Tradicional,nan,62.0,74519.51
+203,2025-04-17,Cabaña,Econmica,Ladrillo,Wood Frame,67.0,120.0,76625.24
+272,2025-03-10,Premium,Econmica,Plástico,Tradicional,80.0,150.0,137810.07
+283,2025-05-22,Minimalista,Econmica,Ladrillo,Steel Frame,106.0,97.0,80941.8
+357,2025-07-14,Minimalista,Econmica,,Wood Frame,52.0,197.0,81986.04
+38,2025-07-10,Americana,Stndar,Madera,Wood Frame,60.0,167.0,120406.0
+147,2025-02-18,cabaña,Preium,Madera,Steel Frame,66.0,152.0,139982.66
+73,2025-03-15,AMERICANA,Preium,,Tradicional,70.0,138.0,
+199,2025-01-19,Americana,Stndar,Madera,Tradicional,120.0,37.0,
+254,22/12/2025,Americana,Stndar,,Steel Frame,87.0,91.0,141428.12
+366,2025-09-18,cabaña,Preium,Madera,Tradicional,115.0,14.0,89700.39
+240,2025-09-15,Premium,Econmica,Madera,Tradicional,128.0,88.0,72891.04
+74,2025-07-13,Minimalista,Stndar,Ladrillo,Steel Frame,145.0,115.0,80807.69
+316,2025-03-10,premium,Econmica,Ladrillo,Tradicional,nan,43.0,159587.11
+41,2025-08-23,cabaña,Stndar,Madera,Steel Frame,96.0 mt2,78.0,143613.12
+62,2025-02-27,cabaña,Econmica,Plástico,Wood Frame,nan,18.0,
+343,2025-08-19,Cabaña,Stndar,Piedra,Tradicional,113.0,64.0,156984.22
+380,2025-02-10,Americana,Stndar,Piedra,Wood Frame,125.0,175.0,127179.22
+34,2025-01-24,Minimalista,Stndar,Madera,Wood Frame,105.0,192.0,57143.72
+328,2025-03-24,cabaña,Econmica,Piedra,Tradicional,135.0,30.0,86766.22
+356,2025-07-13,Cabaña,Econmica,Piedra,Wood Frame,124.0,9.0,94502.27
+293,2025-09-14,Americana,Stndar,Plástico,Wood Frame,132.0,193.0,89938.96
+396,22/12/2025,Premium,Econmica,Piedra,Wood Frame,141.0,115.0,58149.45
+182,2025-04-10,cabaña,Econmica,Madera,Wood Frame,142.0,92.0,48013.71
+333,2025-01-20,Premium,Preium,Plástico,Tradicional,101.0,176.0,87019.25
+16,2025-08-22,Americana,Preium,Ladrillo,Tradicional,71.0,185.0,153976.47
+315,2025-06-12,Cabaña,Econmica,Madera,Wood Frame,96.0,10.0,98677.77
+364,2025-02-27,Minimalista,Stndar,Madera,Wood Frame,103.0,35.0,74425.86
+382,2025-02-12,Minimalista,Econmica,Plástico,Wood Frame,143.0,61.0,120028.47
+244,2025-08-17,AMERICANA,Stndar,Plástico,Tradicional,48.0,26.0,152119.73
+70,2025-05-20,Minimalista,Econmica,Ladrillo,Wood Frame,103.0,33.0,50026.13
+369,2025-01-23,cabaña,Preium,Plástico,Steel Frame,79.0,18.0,39803.29
+148,2025-08-16,Cabaña,Econmica,Ladrillo,Tradicional,44.0,50.0,147502.89
+218,2025-09-12,Americana,Preium,Plástico,Tradicional,130.0,108.0,
+55,2025-05-25,cabaña,Stndar,Madera,Tradicional,45.0,149.0,157146.77
+27,2025-04-12,Minimalista,Preium,Madera,Wood Frame,40.0,17.0,60231.68
+165,22/12/2025,Minimalista,Econmica,Piedra,Tradicional,93.0,76.0,37954.82
+170,2025-04-18,Minimalista,Econmica,Ladrillo,Tradicional,128.0,114.0,83863.25
+21,2025-05-22,Minimalista,Stndar,Ladrillo,Tradicional,140.0,104.0,96105.82
+376,2025-08-13,Premium,Preium,Ladrillo,Wood Frame,90.0,5.0,111741.7
+205,22/12/2025,Premium,Econmica,Ladrillo,Tradicional,143.0,154.0,
+400,2025-01-12,americana,Econmica,Plástico,Wood Frame,nan,152.0,130546.58
+222,2025-08-11,cabaña,Econmica,Piedra,Tradicional,63.0,138.0,134431.25
+252,2025-06-18,Americana,Econmica,Plástico,Steel Frame,82.0,18.0,97120.44
+231,2025-08-23,Minimalista,,Plástico,Tradicional,142.0,76.0,100119.75
+143,2025-06-14,PREMIUM,Econmica,Plástico,Wood Frame,139.0,28.0,63509.97
+195,2025-01-14,Cabaña,Preium,Madera,Tradicional,nan,172.0,43451.57
+29,2025-04-24,premium,Stndar,Plástico,Tradicional,74.0,159.0,156239.01
+37,2025-01-20,Premium,Preium,Madera,Steel Frame,51.0,113.0,153076.78
+322,2025-07-24,Americana,,,Tradicional,47.0,135.0,88260.42
+400,2025-01-12,americana,Econmica,Plástico,Wood Frame,nan,152.0,130546.58
+180,2025-08-20,cabaña,Preium,Ladrillo,Wood Frame,58.0,15.0,158907.0
+354,22/12/2025,PREMIUM,Stndar,Plástico,Tradicional,39.0,70.0,75584.49
+301,2025-07-27,Americana,Econmica,Ladrillo,Tradicional,39.0,192.0,132595.2
+351,22/12/2025,Premium,Econmica,Madera,Steel Frame,113.0,127.0,47260.32
+265,2025-04-13,CABAÑA,Preium,Plástico,Steel Frame,95.0,123.0,45114.91
+341,2025-09-23,Cabaña,Stndar,Ladrillo,Steel Frame,76.0,45.0,36515.1
+158,2025-01-21,Minimalista,Stndar,,Steel Frame,113.0,67.0,91470.96
+101,2025-07-22,Cabaña,Stndar,Piedra,Wood Frame,148.0,188.0,154440.46
+50,2025-02-26,Minimalista,Preium,Madera,Wood Frame,70.0,72.0,116404.12
+298,2025-01-25,CABAÑA,Preium,Madera,Wood Frame,37.0,112.0,116275.14
+397,2025-01-24,premium,,Ladrillo,Tradicional,79.0,138.0,56763.67
+118,2025-02-27,Minimalista,Preium,Plástico,Tradicional,91.0,193.0,102395.16
+28,2025-04-26,minimalista,Preium,Ladrillo,Wood Frame,125.0,50.0,119179.05
+269,2025-06-26,Cabaña,Econmica,Piedra,Tradicional,73.0,55.0,78262.47
+373,2025-08-21,MINIMALISTA,Preium,Piedra,Wood Frame,149.0,80.0,117419.24
+90,2025-07-18,Minimalista,Stndar,Piedra,Tradicional,51.0,79.0,94897.73
+320,2025-01-19,Minimalista,Econmica,Ladrillo,Tradicional,133.0,129.0,112986.98
+8,2025-01-22,Americana,Preium,Madera,Wood Frame,52.0,49.0,151734.38
+213,2025-01-19,Americana,Econmica,,Tradicional,64.0,147.0,56912.87
+36,2025-05-20,Americana,Econmica,Piedra,Wood Frame,79.0,92.0,139764.41
+120,2025-04-12,americana,Stndar,,Tradicional,147.0,68.0,111291.72
+274,2025-06-17,Premium,Preium,Piedra,Steel Frame,45.0,41.0,142751.81
+304,2025-01-18,Minimalista,Preium,Piedra,Tradicional,121.0,181.0,
+17,2025-01-26,premium,Econmica,Plástico,Wood Frame,59.0,162.0,114889.99
+43,2025-03-28,Minimalista,Stndar,Madera,Tradicional,98.0,160.0,38798.38
+24,22/12/2025,Premium,Preium,Piedra,Steel Frame,61.0,16.0,38746.7
+12,2025-04-20,Cabaña,Stndar,Ladrillo,Wood Frame,75.0,174.0,53542.9
+124,2025-01-10,Cabaña,Preium,Ladrillo,Tradicional,114.0,22.0,50235.76
+232,2025-06-21,Premium,Preium,Ladrillo,Tradicional,145.0,182.0,112948.21
+7,2025-01-13,Americana,,Ladrillo,Wood Frame,104.0,137.0,91524.88
+174,2025-04-11,Premium,Stndar,Plástico,Wood Frame,93.0,15.0,52054.97
+119,2025-07-28,premium,Preium,Ladrillo,Tradicional,89.0,167.0,73913.46
+111,2025-07-26,PREMIUM,Stndar,Plástico,Steel Frame,135.0,135.0,78952.84
+191,2025-06-13,CABAÑA,Econmica,,Steel Frame,89.0,90.0,63332.05
+7,2025-01-13,Americana,,Ladrillo,Wood Frame,104.0,137.0,91524.88
+72,22/12/2025,Minimalista,Econmica,Piedra,Steel Frame,67.0,37.0,35719.83
+79,2025-06-15,Cabaña,Stndar,Piedra,Wood Frame,115.0,30.0,64693.02
+130,22/12/2025,PREMIUM,Stndar,Ladrillo,Steel Frame,115.0,149.0,48359.62
+387,22/12/2025,Cabaña,Preium,Piedra,Steel Frame,114.0,111.0,43907.09
+188,2025-06-21,Cabaña,,Piedra,Tradicional,77.0,164.0,146773.86
+310,2025-02-13,MINIMALISTA,Econmica,Piedra,Wood Frame,95.0,102.0,50173.12
+377,2025-03-25,Premium,Econmica,Madera,Wood Frame,74.0,137.0,43331.51
+262,2025-09-17,minimalista,,,Steel Frame,46.0,104.0,135740.68
+144,2025-01-25,Premium,,Madera,Wood Frame,143.0,64.0,61505.6
+374,2025-08-14,premium,Preium,Madera,Steel Frame,92.0,98.0,146889.72
+306,22/12/2025,Americana,Preium,Madera,Tradicional,43.0,100.0,121879.4
+243,22/12/2025,premium,Stndar,Madera,Steel Frame,79.0,62.0,45955.34
+241,2025-09-12,Minimalista,Econmica,Madera,Wood Frame,83.0,136.0,67889.07
+54,2025-07-19,PREMIUM,Econmica,Madera,Steel Frame,55.0,154.0,41026.5
+121,2025-05-13,premium,Preium,Piedra,Wood Frame,81.0,29.0,124518.83
+258,2025-04-12,minimalista,Preium,Piedra,Wood Frame,49.0,49.0,137181.21
+64,2025-04-23,Americana,Econmica,Plástico,Tradicional,88.0,179.0,118449.17
+209,22/12/2025,Minimalista,Preium,Madera,Steel Frame,89.0,107.0,93150.7
+342,2025-04-23,premium,Preium,Piedra,Wood Frame,43.0,66.0,65150.18
+319,22/12/2025,CABAÑA,Preium,Ladrillo,Steel Frame,66.0,190.0,73281.7
+85,2025-04-19,cabaña,Preium,Plástico,Wood Frame,60.0,43.0,
+11,22/12/2025,cabaña,Stndar,Ladrillo,Wood Frame,85000,27.0,40196.61
+99,22/12/2025,minimalista,Stndar,Ladrillo,Wood Frame,69.0,85.0,136623.22
+266,2025-07-17,minimalista,,Plástico,Steel Frame,135.0,57.0,85372.52
+226,2025-03-22,Minimalista,Preium,Ladrillo,Wood Frame,96.0,107.0,54052.0
+48,2025-08-18,Cabaña,Econmica,Madera,Steel Frame,85.0,152.0,117360.68
+116,2025-01-20,Premium,Stndar,Madera,Wood Frame,51.0,19.0,73411.25
+289,2025-05-10,Americana,Econmica,Plástico,Steel Frame,143.0,53.0,155727.77
+127,2025-01-27,Minimalista,Stndar,Plástico,Tradicional,42.0,76.0,57679.79
+94,2025-01-26,Minimalista,Econmica,Ladrillo,Wood Frame,77.0,179.0,84852.85
+206,2025-04-17,Americana,Stndar,Plástico,Steel Frame,76.0,107.0,
+74,2025-07-13,Minimalista,Stndar,Ladrillo,Steel Frame,145.0,115.0,80807.69
+25,2025-05-26,premium,Econmica,Piedra,Steel Frame,91.0,43.0,73491.24
+248,2025-07-11,Americana,Preium,Ladrillo,Wood Frame,52.0,131.0,90900.32
+367,2025-09-18,Minimalista,Econmica,Ladrillo,Tradicional,148.0,199.0,66833.83
+281,2025-04-27,PREMIUM,Stndar,Plástico,Wood Frame,38.0,39.0,84832.88
+30,2025-09-12,Premium,Preium,Ladrillo,Steel Frame,132.0,117.0,46737.59
+215,2025-02-25,cabaña,Preium,Madera,Steel Frame,47.0,123.0,60116.71
+256,2025-06-15,Cabaña,Stndar,Plástico,Tradicional,113.0,145.0,151324.4
+47,2025-04-14,Premium,Econmica,Piedra,Wood Frame,99.0,26.0,61959.39
+69,2025-02-20,Premium,Econmica,Piedra,Wood Frame,56.0 mt2,11.0,137229.28
+175,2025-03-13,PREMIUM,Econmica,Plástico,Wood Frame,140.0,49.0,121893.07
+378,2025-08-14,AMERICANA,Econmica,Ladrillo,Steel Frame,132.0,24.0,99801.0
+83,2025-09-11,americana,Preium,,Steel Frame,132.0,103.0,110431.07
+329,2025-08-25,Premium,Preium,Ladrillo,Steel Frame,132.0,12.0,138442.24
+279,2025-09-17,Americana,Preium,Plástico,Tradicional,nan,135.0,56854.83
+233,2025-07-24,premium,Preium,Ladrillo,Steel Frame,44.0,96.0,46140.55
+312,2025-01-28,CABAÑA,Preium,Piedra,Steel Frame,69.0,83.0,47630.73
+113,2025-04-18,Premium,Preium,Madera,Tradicional,93.0,62.0,95733.97
+18,2025-06-14,PREMIUM,Econmica,Plástico,Steel Frame,136.0,43.0,143489.79
+225,2025-02-25,MINIMALISTA,Econmica,Ladrillo,Steel Frame,127.0,77.0,84914.49
+270,2025-08-28,cabaña,Econmica,Piedra,Steel Frame,90.0,48.0,156951.28
+87,2025-01-20,Minimalista,Preium,Ladrillo,Steel Frame,107.0,123.0,82473.22
+76,2025-08-20,Minimalista,Stndar,Plástico,Tradicional,117.0,164.0,121933.4
+3,2025-04-15,americana,Stndar,Plástico,Tradicional,132.0,159.0,101396.19
+251,2025-09-17,Minimalista,Stndar,Piedra,Wood Frame,59.0,110.0,149924.0
+267,2025-09-22,Premium,Econmica,Plástico,Wood Frame,77.0,187.0,56690.56
+247,2025-07-23,Americana,Stndar,Ladrillo,Tradicional,102.0,7.0,84622.69
+150,2025-01-12,Premium,Stndar,Ladrillo,Steel Frame,105.0,157.0,64608.82
+193,2025-04-20,Americana,,Ladrillo,Wood Frame,142.0,152.0,43677.98
+22,2025-03-12,Americana,Econmica,Plástico,Wood Frame,120.0,6.0,118358.03
+291,2025-02-12,Americana,Econmica,Piedra,Tradicional,108.0,163.0,73977.02
+214,2025-07-23,CABAÑA,Stndar,Plástico,Steel Frame,47.0,110.0,121250.61
+297,2025-01-16,minimalista,Preium,Plástico,Wood Frame,147.0,8.0,112448.49
+331,2025-06-23,Americana,Econmica,Ladrillo,Tradicional,139.0,91.0,131163.11
+299,2025-03-15,Americana,Econmica,Ladrillo,Wood Frame,40.0,130.0,54003.11
+139,22/12/2025,Cabaña,Econmica,Plástico,Steel Frame,46.0,97.0,153925.42
+334,2025-04-21,CABAÑA,Stndar,Ladrillo,Wood Frame,126.0,18.0,95168.02
+323,2025-08-15,PREMIUM,Stndar,Ladrillo,Tradicional,145.0,22.0,51338.8
+112,2025-01-25,Cabaña,Stndar,Plástico,Steel Frame,78.0,5.0,47677.6
+336,2025-03-26,Premium,Econmica,Madera,Wood Frame,43.0,6.0,67476.65
+212,2025-02-22,cabaña,Stndar,,Wood Frame,68.0,126.0,154703.16
+202,2025-04-11,Premium,Stndar,Piedra,Steel Frame,116.0,81.0,75541.72
+229,2025-01-17,AMERICANA,Econmica,Ladrillo,Wood Frame,50.0,118.0,102494.64
+96,22/12/2025,MINIMALISTA,Stndar,Ladrillo,Steel Frame,nan,26.0,101700.32
+392,2025-04-17,cabaña,Econmica,Piedra,Steel Frame,93.0,124.0,72066.95
+348,2025-04-21,Premium,Preium,Plástico,Tradicional,93.0,134.0,103494.94
+106,2025-01-14,Minimalista,Stndar,Plástico,Tradicional,128.0,191.0,147253.82
+383,2025-07-17,premium,Preium,Plástico,Tradicional,67.0,68.0,40209.11
+6,2025-09-22,Premium,Stndar,Plástico,Tradicional,nan,11.0,50263.74
+93,2025-07-23,Minimalista,Econmica,Madera,Wood Frame,95.0,134.0,82524.45
+4,2025-07-14,cabaña,Stndar,Madera,Tradicional,121.0,170.0,152075.71
+108,2025-06-11,premium,Econmica,Plástico,Tradicional,132.0,10.0,150879.32
+394,22/12/2025,premium,,Piedra,Steel Frame,75.0,60.0,131831.69
+151,2025-06-28,Cabaña,Stndar,Piedra,Wood Frame,51.0,21.0,132565.69
+173,22/12/2025,Cabaña,Stndar,Ladrillo,Wood Frame,52.0,36.0,158473.19
+359,2025-08-11,americana,Econmica,Ladrillo,Tradicional,71.0,188.0,
+98,2025-06-19,PREMIUM,Econmica,Piedra,Steel Frame,73.0,199.0,130610.41
+60,2025-06-12,americana,Econmica,Plástico,Tradicional,93.0,124.0,127306.15
+221,2025-05-21,Cabaña,,Plástico,Steel Frame,80.0,127.0,118113.97
+197,2025-09-20,MINIMALISTA,Stndar,Piedra,Steel Frame,nan mt2,101.0,64214.01
+275,22/12/2025,Americana,Econmica,Plástico,Wood Frame,96.0,100.0,150344.65
+230,2025-03-19,americana,Econmica,Ladrillo,Steel Frame,90.0,12.0,140254.16
+286,2025-08-13,Cabaña,Preium,Ladrillo,Wood Frame,nan,101.0,
+313,2025-08-24,Premium,Econmica,Piedra,Tradicional,84.0,166.0,
+125,2025-06-11,AMERICANA,Stndar,Plástico,Tradicional,122.0,19.0,57643.67
+103,2025-02-12,MINIMALISTA,Stndar,Ladrillo,Steel Frame,142.0,25.0,
+71,2025-08-12,Minimalista,Preium,Plástico,Wood Frame,90.0,143.0,103061.14
+264,2025-06-20,Americana,Econmica,Piedra,Steel Frame,71.0,140.0,73084.89
+45,2025-04-15,Premium,Preium,Piedra,Wood Frame,88.0,83.0,121190.84
+201,2025-03-28,Cabaña,Stndar,Madera,Wood Frame,47.0,165.0,101619.72
+159,22/12/2025,Americana,Econmica,Madera,Steel Frame,41.0,121.0,108326.06
+171,22/12/2025,Premium,,Ladrillo,Steel Frame,73.0,99.0,109309.54
+271,2025-08-23,Minimalista,Stndar,Piedra,Steel Frame,97.0,86.0,115121.51
+280,2025-02-27,Minimalista,Preium,Ladrillo,Wood Frame,86.0,160.0,97820.76
+136,2025-02-14,americana,Preium,Plástico,Steel Frame,59.0,178.0,103778.32
+246,2025-05-10,MINIMALISTA,Preium,Madera,Tradicional,148.0,131.0,73190.54
+259,2025-04-18,Premium,Econmica,Madera,Wood Frame,83.0,126.0,82577.91
+287,2025-05-24,AMERICANA,Econmica,Ladrillo,Tradicional,88.0,139.0,155389.39
+194,2025-01-23,CABAÑA,Econmica,Piedra,Steel Frame,73.0,165.0,99882.47
+237,2025-02-10,MINIMALISTA,Econmica,Piedra,Wood Frame,118.0,115.0,132753.51
+352,2025-09-28,americana,Econmica,Piedra,Tradicional,72.0,93.0,
+284,2025-03-21,CABAÑA,Preium,Madera,Steel Frame,54.0,186.0,43521.54
+346,2025-07-11,cabaña,Econmica,Plástico,Tradicional,39.0,18.0,95981.76
+190,2025-08-14,Minimalista,Stndar,Ladrillo,Steel Frame,124.0,58.0,75421.45
+220,22/12/2025,cabaña,Econmica,,Tradicional,73.0,199.0,78446.44
+208,2025-01-22,Premium,Econmica,Plástico,Steel Frame,100.0,170.0,126331.31
+187,22/12/2025,Minimalista,Stndar,Piedra,Steel Frame,71.0,50.0,
+296,2025-03-13,premium,Econmica,Ladrillo,Steel Frame,75.0,41.0,62004.77
+324,2025-02-14,Minimalista,Preium,,Tradicional,123.0,44.0,145825.53
+398,2025-03-25,MINIMALISTA,Stndar,Madera,Wood Frame,123.0,112.0,47299.46
+368,2025-02-12,minimalista,Stndar,,Steel Frame,74.0 mt2,122.0,140108.95
+128,2025-06-20,americana,Stndar,Piedra,Tradicional,129.0,64.0,100645.42
+314,2025-04-19,CABAÑA,Preium,Ladrillo,Tradicional,116.0,168.0,42786.47
+141,2025-05-24,Premium,,Piedra,Tradicional,93.0,176.0,137398.61
+164,2025-01-28,premium,Preium,Piedra,Tradicional,148.0,68.0,46964.32
+288,22/12/2025,Americana,Preium,Madera,Wood Frame,149.0 mt2,80.0,103691.19
+355,2025-08-10,Premium,Preium,Plástico,Steel Frame,82.0 mt2,167.0,127169.63
+65,2025-07-22,Cabaña,Preium,Madera,Wood Frame,132.0,33.0,135980.74
+50,2025-02-26,Minimalista,Preium,Madera,Wood Frame,70.0,72.0,116404.12
+363,2025-01-10,Americana,Econmica,Madera,Tradicional,62.0,51.0,133362.92
+327,2025-03-17,Cabaña,Stndar,Piedra,Steel Frame,48.0,103.0,80969.92
+145,2025-04-28,PREMIUM,Preium,,Wood Frame,60.0,126.0,111372.62
+381,2025-09-12,premium,Stndar,Plástico,Tradicional,111.0,5.0,99027.74
+317,2025-08-14,CABAÑA,Preium,,Steel Frame,122.0,174.0,136746.28
+360,2025-06-14,Cabaña,Preium,Piedra,Steel Frame,94.0,168.0,133127.07
+207,2025-06-11,Premium,Stndar,Plástico,Wood Frame,142.0,198.0,104722.93
+122,2025-04-28,Americana,Econmica,Ladrillo,Wood Frame,46.0,28.0,69078.0
+163,2025-09-22,Premium,Preium,Plástico,Wood Frame,106.0,143.0,62092.48
+100,2025-04-21,Americana,Preium,,Tradicional,37.0,130.0,124765.38
+337,2025-06-20,americana,Stndar,Piedra,Wood Frame,101.0,123.0,130036.23
+239,2025-08-19,Cabaña,Preium,Madera,Wood Frame,99.0,11.0,39520.05
+63,2025-01-19,Americana,Stndar,Madera,Tradicional,133.0,196.0,75879.15
+19,2025-08-26,premium,Econmica,Piedra,Wood Frame,110.0,163.0,91842.48
+399,2025-06-11,premium,Econmica,Ladrillo,Wood Frame,87.0,193.0,117537.84
+375,2025-01-15,AMERICANA,Stndar,Piedra,Tradicional,101.0,109.0,114583.71
+44,22/12/2025,Premium,,Madera,Steel Frame,36.0,64.0,151368.59
+384,2025-07-18,Americana,Econmica,Plástico,Steel Frame,40.0,122.0,45599.0
+391,2025-06-15,cabaña,Preium,Madera,Steel Frame,93.0,53.0,79156.43
+13,2025-01-10,Cabaña,Stndar,Madera,Steel Frame,72.0,142.0,158328.77
+14,2025-06-25,Cabaña,Stndar,Plástico,Wood Frame,68.0,164.0,155639.84
+249,2025-01-23,americana,Preium,Plástico,Steel Frame,96.0,45.0,110074.29
+273,2025-02-23,Premium,Econmica,Piedra,Steel Frame,122.0,154.0,51565.58
+388,2025-05-10,Cabaña,,Piedra,Wood Frame,74.0,169.0,36513.56
+146,2025-08-10,Cabaña,Preium,Piedra,Wood Frame,81.0,135.0,86378.56
+242,2025-03-25,cabaña,Preium,Madera,Tradicional,37.0,138.0,80017.05
+59,2025-06-23,Cabaña,Econmica,Plástico,Steel Frame,nan,26.0,105877.03
+198,2025-03-28,Premium,Stndar,,Wood Frame,127.0,6.0,102501.49
+390,2025-07-11,AMERICANA,Econmica,Madera,Wood Frame,131.0,169.0,127188.54
+20,2025-06-24,cabaña,Econmica,,Tradicional,121.0,86.0,99449.5
+5,2025-08-20,Cabaña,,Piedra,Steel Frame,71.0,192.0,39917.94
+303,22/12/2025,CABAÑA,Econmica,Piedra,Steel Frame,81.0,54.0,
+26,22/12/2025,Minimalista,Econmica,Ladrillo,Wood Frame,65.0,198.0,-500.0
+253,2025-09-21,Premium,Stndar,Piedra,Steel Frame,99.0,16.0,159019.75
